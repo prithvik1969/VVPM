@@ -1,1 +1,3 @@
-# VVPM
+# Description 
+
+This code presents a comprehensive investigation into the modelling of rotor wake velocities, in a simplistic manner, using the Viscous Vortex Particle Method (VVPM). The study aims to accurately simulate wind velocities in the wake of helicopter rotors. The VVPM is particularly promising due to its ability to simulate the interaction of rotor blade vorticity with a more natural and efficient approach. The method employs a grid-free Lagrangian formulation, eliminating artificial numerical dissipation during the solution process. To demonstrate the efficacy of the method, this Python code has been developed, enabling the visualisation of wake velocities for basic scenarios such as fixed wing level flight and rotary wing flight under hove condition.
